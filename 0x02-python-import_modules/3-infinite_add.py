@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 args = sys.argv[1:]  # exclude the first argument (the script name)
